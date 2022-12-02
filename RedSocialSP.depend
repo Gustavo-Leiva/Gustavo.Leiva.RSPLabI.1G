@@ -1,0 +1,58 @@
+# depslib dependency file v1.0
+1669169459 source:c:\users\impuestos\documents\personal\utn\ejercicios en codigo c\clase de apoyo\redsocialsp\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1669054167 c:\users\impuestos\documents\personal\utn\ejercicios en codigo c\clase de apoyo\redsocialsp\linkedlist.h
+
+1669931758 source:c:\users\impuestos\documents\personal\utn\ejercicios en codigo c\clase de apoyo\redsocialsp\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"post.h"
+
+1669938752 c:\users\impuestos\documents\personal\utn\ejercicios en codigo c\clase de apoyo\redsocialsp\post.h
+
+1669937474 source:c:\users\impuestos\documents\personal\utn\ejercicios en codigo c\clase de apoyo\redsocialsp\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"controller.h"
+	"post.h"
+	<string.h>
+
+1669939312 c:\users\impuestos\documents\personal\utn\ejercicios en codigo c\clase de apoyo\redsocialsp\controller.h
+
+1669936157 source:c:\users\impuestos\documents\personal\utn\ejercicios en codigo c\clase de apoyo\redsocialsp\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"controller.h"
+	"validaciones.h"
+	"post.h"
+	"parser.h"
+	<ctype.h>
+
+1669936493 c:\users\impuestos\documents\personal\utn\ejercicios en codigo c\clase de apoyo\redsocialsp\validaciones.h
+
+1669937671 c:\users\impuestos\documents\personal\utn\ejercicios en codigo c\clase de apoyo\redsocialsp\parser.h
+
+1669936762 source:c:\users\impuestos\documents\personal\utn\ejercicios en codigo c\clase de apoyo\redsocialsp\post.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"post.h"
+	"validaciones.h"
+	<time.h>
+
+1669931863 source:c:\users\impuestos\documents\personal\utn\ejercicios en codigo c\clase de apoyo\redsocialsp\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	"validaciones.h"
+	<string.h>
+	<ctype.h>
+
